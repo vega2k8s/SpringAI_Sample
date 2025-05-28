@@ -1,5 +1,5 @@
 ### Environment Variable ( 환경 변수 ) 설정하기
-* **openapi 를 깃헙에 절대 노출금지**
+* **OPENAI API Key 깃헙에 절대 노출금지**
 ```
 spring.ai.openai.api-key=${OPENAI_API_KEY}
 spring.ai.openai.chat.options.model=gpt-4
